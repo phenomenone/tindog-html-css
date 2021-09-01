@@ -1,5 +1,17 @@
 # tindog
 
-# Description: This is a Tinder Clone for Dogs
+Tindog is a Tinder like clone but for dogs and maybe some other pets.
 
-URL: https://boraxphenom.github.io/tindog/
+## URL to see the actual landing page:
+
+[LINK](https://boraxphenom.github.io/tindog/)
+
+---
+
+## Stack Used
+
+> * HTML 
+> * CSS
+
+---
+
