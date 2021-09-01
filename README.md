@@ -1,6 +1,6 @@
 # tindog
 
-Tindog is a Tinder like clone but for dogs and maybe some other pets.
+Tindog is a tinder like clone responsive webpage but for dogs and maybe some other pets.
 
 ---
 
@@ -10,7 +10,7 @@ Tindog is a Tinder like clone but for dogs and maybe some other pets.
 
 ## Stack Used
 
-> * HTML 
+> * HTML
 > * CSS
 
 ---
