@@ -4,7 +4,7 @@ Tindog is a tinder like clone responsive webpage but for dogs and maybe some oth
 
 ---
 
-> [Visit this page!](https://boraxphenom.github.io/tindog-html-css/)
+> [Visit this page!](https://phenomenone.github.io/tindog-html-css/)
 
 ---
 
